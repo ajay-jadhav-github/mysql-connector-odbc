@@ -9,7 +9,7 @@ Before reporting a new bug, please check first to see if a similar bug [exists](
 Bug reports should be as complete as possible.  Please try and include the following:
 
 * Complete steps to reproduce the issue
-* Any information about platform and environment that could be specific to the bug  
+* Any information about platform and environment that could be specific to the bug
 * Specific version of the product you are using
 * Specific version of the server being used
 * Code written in C/C++/VB or another language to help reproduce the issue if possible
